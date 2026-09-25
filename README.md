@@ -1,166 +1,112 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Phantom-Vector/Phantom-Vector/main/phantom-vector-banner.png" alt="Phantom Vector Cybersecurity Profile Banner" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/Phantom-Vector/Phantom-Vector/main/phantom-vector-banner.png"
+    alt="Phantom Vector Cybersecurity Profile Banner"
+    width="100%"
+  >
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst;Pentester;Artificial+Intelligence+Enthusiast;Linux+Enthusiast;Ethical+Hacker+in+Training;Public+Speaker+%26+Tech+Mentor;Trader;Empowering+Africa+Through+Technology+%26+Cybersecurity" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1100&color=39FF88&center=true&vCenter=true&multiline=false&width=1100&height=55&lines=Cybersecurity+Analyst;Pentester;Artificial+Intelligence+Enthusiast;Linux+Enthusiast;Ethical+Hacker+in+Training;Public+Speaker+and+Tech+Mentor;Trader;Empowering+Africa+Through+Technology+and+Cybersecurity"
+    alt="Typing animation"
+  >
 </p>
 
 ---
 
-## Hi, I'm Ifechukwu Michael Ozoigwe 👋
+## 👋 Introduction
 
-I'm a **Cybersecurity Analyst, Pentester and Tech Mentor** building practical skills at the intersection of ethical hacking, security analysis and technology education. I am passionate about making cybersecurity knowledge accessible — mentoring the next generation of African technology professionals and contributing to a safer digital ecosystem.
+I'm **Ifechukwu Michael Ozoigwe**, a cybersecurity professional in development with a strong interest in **cybersecurity, ethical hacking, technology education, artificial intelligence, Linux, and digital transformation**.
+
+I am building practical cybersecurity skills through hands-on learning, controlled security labs, research, and continuous experimentation. I also enjoy sharing what I learn and helping beginners navigate their own technology journey.
+
+My goal is to combine **technical skills, education, mentorship, and community building** to contribute meaningfully to a safer and more digitally capable society.
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑🏽‍💻 About Me
 
-- 🔐 Actively building a career in cybersecurity with a focus on ethical hacking and security analysis
-- 🛠️ Developing hands-on skills through practical labs, controlled environments and security research
-- 🎓 Teaching and mentoring beginners in technology, Linux and cybersecurity fundamentals
-- 🌍 Passionate about empowering young Africans with relevant and in-demand digital skills
-- 🤖 Interested in the intersection of **Cybersecurity**, **Artificial Intelligence** and **Technology Education**
-- 🐧 Linux enthusiast and open-source advocate
-- 📈 Exploring digital finance and trading as part of a broader technology portfolio
+- 🔐 Building my career in **Cybersecurity**
+- 🛡️ Developing practical skills in **ethical hacking and security analysis**
+- 🧪 Exploring hands-on **cybersecurity labs and controlled environments**
+- 🔎 Interested in **reconnaissance, vulnerability discovery, and security testing**
+- 🐧 Working with **Linux and security-focused environments**
+- 🤖 Exploring the intersection of **Artificial Intelligence and Cybersecurity**
+- 🎓 Teaching and mentoring beginners interested in technology
+- 🌍 Passionate about helping young people develop relevant digital skills
+- 🗣️ Interested in **public speaking, technology education, and community building**
+- 🚀 Building practical projects while documenting my learning journey
 
 ---
 
 ## 🛡️ Cybersecurity
 
-Areas I am developing and actively practising:
+My current cybersecurity areas of focus include:
 
-| Domain | Focus |
+| Area | Focus |
 |---|---|
-| Ethical Hacking | Authorized attack simulation and offensive security techniques |
-| Penetration Testing | Systematic security assessments of systems and networks |
-| Vulnerability Assessment | Identifying and evaluating security weaknesses |
-| Network Security | Traffic analysis, protocol security and network defence |
-| Web Application Security | OWASP Top 10, injection attacks, authentication flaws |
-| Security Analysis | Log analysis, threat identification and incident response concepts |
-| Linux Security | Hardening, privilege escalation, filesystem security |
-| Reconnaissance | OSINT, active and passive information gathering |
-| Threat Analysis | Understanding attacker methodology and threat modelling basics |
-| Security Awareness | Educating others on cybersecurity best practices |
+| 🔐 Ethical Hacking | Understanding attack techniques within authorized environments |
+| 🎯 Penetration Testing | Learning structured security testing methodologies |
+| 🔎 Vulnerability Assessment | Identifying and analyzing potential security weaknesses |
+| 🌐 Network Security | Understanding networks, protocols, and defensive controls |
+| 🕸️ Web Application Security | Exploring common web vulnerabilities and security testing |
+| 🧠 Security Analysis | Analyzing systems, services, and potential attack surfaces |
+| 📢 Security Awareness | Promoting safer digital practices and security awareness |
+| 🐧 Linux Security | Working with Linux systems and security tools |
+| 🔍 Reconnaissance | Information gathering and attack-surface discovery |
+| ⚠️ Threat Analysis | Understanding threats, attack patterns, and security risks |
 
 ---
 
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,git,github,vscode,html,css" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,git,github,vscode,html,css&perline=9" alt="Technology stack">
 </p>
 
+### Cybersecurity Toolkit
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
-  <img src="https://img.shields.io/badge/Searchsploit-1A1A1A?style=for-the-badge&logoColor=white" alt="Searchsploit"/>
-  <img src="https://img.shields.io/badge/Websploit-222222?style=for-the-badge&logoColor=white" alt="Websploit"/>
+
+![Nmap](https://img.shields.io/badge/Nmap-1F2937?style=for-the-badge&logo=linux&logoColor=39FF88)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge&logo=metasploit&logoColor=39FF88)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1F2937?style=for-the-badge&logo=burpsuite&logoColor=FF6B35)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-1F2937?style=for-the-badge&logo=owasp&logoColor=39FF88)
+![Searchsploit](https://img.shields.io/badge/Searchsploit-1F2937?style=for-the-badge&logo=linux&logoColor=39FF88)
+![Websploit](https://img.shields.io/badge/Websploit-1F2937?style=for-the-badge&logo=linux&logoColor=39FF88)
+
+</p>
+
+### Development & Workflow
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Bash](https://img.shields.io/badge/Bash-1F2937?style=for-the-badge&logo=gnubash&logoColor=39FF88)
+![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css&logoColor=1572B6)
+
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-I am working through a structured learning roadmap focused on practical, job-relevant cybersecurity skills:
+My current learning roadmap is focused on developing practical, transferable cybersecurity capabilities.
 
-```
-Advanced Ethical Hacking      ████████░░░░  In Progress
-Penetration Testing           ███████░░░░░  In Progress
-Web Application Security      ██████░░░░░░  In Progress
-Network Security              ██████░░░░░░  In Progress
-Vulnerability Assessment      █████░░░░░░░  In Progress
-Python for Cybersecurity      █████░░░░░░░  In Progress
-Linux                         ████████░░░░  In Progress
-Artificial Intelligence       ████░░░░░░░░  Exploring
-Security Automation           ███░░░░░░░░░  Exploring
-```
-
----
-
-## 🔬 Hands-On Cybersecurity
-
-I build and practise in controlled cybersecurity lab environments. All activities are conducted for **ethical, educational and authorized security testing purposes only**.
-
-**Lab environments and activities include:**
-
-- 🐧 **Kali Linux** — primary attack platform for all offensive security practice
-- 🎯 **Metasploitable 2** — intentionally vulnerable target for exploitation practice
-- 🔎 **Network Reconnaissance** — active and passive information gathering techniques
-- 🕵️ **Vulnerability Discovery** — identifying security weaknesses in lab targets
-- 🌐 **Web Application Security Testing** — practising OWASP Top 10 attack scenarios
-- 💻 **Exploitation in Authorized Environments** — safe, sandboxed exploitation practice
-- 📊 **Security Analysis** — reviewing findings and understanding attacker methodology
-
-> ⚠️ All security testing is performed exclusively in isolated, authorized, and legally sanctioned environments.
-
----
-
-## 🚀 Featured Projects
-
-> 🔧 Projects are actively being built. Repository links will be updated as work is published.
-
-| Project | Description | Link |
-|---|---|---|
-| 🔐 Cybersecurity Labs | Documented walkthroughs, notes and findings from hands-on lab work | `[Coming Soon]` |
-| 🐍 Python Security Tools | Scripts and tools built for security automation and practice | `[Coming Soon]` |
-| 🌐 Web Security Projects | Web application security testing notes and findings | `[Coming Soon]` |
-| 🔎 Vulnerability Research | Research notes and vulnerability analysis from lab environments | `[Coming Soon]` |
-| 🛡️ Security Automation | Automation scripts for repetitive security tasks | `[Coming Soon]` |
-| 📚 Cybersecurity Learning Resources | Curated resources, guides and notes for beginners | `[Coming Soon]` |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phantom-Vector&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom-Vector&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Phantom-Vector&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="60%"/>
-</p>
-
----
-
-## 💡 My Philosophy
-
-<p align="center">
-  <b>Learn → Build → Secure → Share → Empower</b>
-</p>
-
-I believe that practical cybersecurity knowledge and quality technology education are not privileges — they are tools for economic empowerment. Every skill I develop, I aim to document and share. Every concept I understand, I work to teach clearly to someone else. My goal is to contribute to a generation of African technology professionals who are not just consumers of technology, but active builders and defenders of a safer digital world.
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Phantom-Vector">
-    <img src="https://img.shields.io/badge/GitHub-Phantom--Vector-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ifechukwu-ozoigwe-26821a313">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ozoigwefranklin7911@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/MichaelOzoigwe">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building skills. Securing systems. Empowering Africa — one line of code at a time.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Phantom-Vector&style=flat-square&color=00ff88&label=Profile+Views" alt="Profile Views"/>
-</p>
+```text
+Cybersecurity
+│
+├── Advanced Ethical Hacking
+├── Penetration Testing
+├── Web Application Security
+├── Network Security
+├── Vulnerability Assessment
+├── Python for Cybersecurity
+├── Linux
+├── Artificial Intelligence
+└── Security Automation
