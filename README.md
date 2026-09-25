@@ -144,13 +144,13 @@ I believe that practical cybersecurity knowledge and quality technology educatio
   <a href="https://github.com/Phantom-Vector">
     <img src="https://img.shields.io/badge/GitHub-Phantom--Vector-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ifechukwu-ozoigwe-26821a313">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:ozoigwefranklin7911@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="YOUR_TWITTER_URL">
+  <a href="https://x.com/MichaelOzoigwe">
     <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
   </a>
 </p>
